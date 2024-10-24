@@ -16,6 +16,7 @@ This project is a backend application for a simple e-commerce platform built usi
 - **Supabase**: For database management and authentication.
 - **PostgreSQL**: Used as the underlying database.
 - **JavaScript**: For writing edge functions.
+- Docker:
 - **Git**: For version control.
 
 ## Setup Instructions

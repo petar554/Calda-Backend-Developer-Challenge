@@ -24,7 +24,6 @@ Table order_items {
   updated_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
 }
 
-
 Table items {
   id UUID [pk]
   name TEXT
